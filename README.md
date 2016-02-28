@@ -1,4 +1,4 @@
-# Gold Ball - Bukkit Mini-Game
+# Gold Ball - Bukkit Game
 
 ## Começo
 O mini game 'Gold Ball' é um jogo baseado no campeonato que existe no filme [Harry Potter] (https://www.google.com.br/search?q=harry+potter+gold+ball).
