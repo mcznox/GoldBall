@@ -1,7 +1,7 @@
-package znox.Type;
+package will.Type;
 
 import org.bukkit.entity.Player;
-import znox.Type.Exception.SessionException;
+import will.Type.Exception.SessionException;
 
 import java.util.Hashtable;
 import java.util.List;
@@ -11,7 +11,7 @@ import java.util.Map;
  * <h1>Session Class</h1>
  * <h2>Declare, create, add, remove and some others functions for Sessions</h2>
  *
- * @author zNoX_
+ * @author Will
  * @version 1.0.3
  */
 
