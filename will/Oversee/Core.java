@@ -1,4 +1,4 @@
-package znox.Oversee;
+package will.Oversee;
 
 import org.bukkit.ChatColor;
 
