@@ -10,7 +10,7 @@ Este mini game está sendo criado em meu canal com a intenção de trazer um con
 Até o **presente** momento o jogo ainda não possui nenhum tipo de *API* para ser utilizada apartir de outros plug-ins
 
 ## Idéias
-Para fornecer alguma nova ideia ao mini game, favor criar um novo [Issue] (https://github.com/will/GoldBall/issues).
+Para fornecer alguma nova ideia ao mini game, favor criar um novo [Issue] (https://github.com/wilmacedo/GoldBall/issues).
 - [ ] Upgrade em skills
 - [ ] Personalização de montaria
 
