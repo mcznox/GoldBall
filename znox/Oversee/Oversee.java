@@ -1,4 +1,4 @@
-package znox.Oversee;
+package will.Oversee;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
@@ -13,9 +13,9 @@ import org.bukkit.event.block.BlockPlaceEvent;
 import org.bukkit.event.entity.FoodLevelChangeEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.event.player.PlayerJoinEvent;
-import znox.Type.Exception.SessionException;
-import znox.Type.Elements.Game;
-import znox.Type.Session;
+import will.Type.Exception.SessionException;
+import will.Type.Elements.Game;
+import will.Type.Session;
 
 import java.util.Map;
 
