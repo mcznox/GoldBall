@@ -1,10 +1,10 @@
-package znox.Type.Exception;
+package will.Type.Exception;
 
 /**
  * <h1>Exception Class</h1>
  * <h2>Class for throw custom exceptions for errors of mini game</h2>
  *
- * @author zNoX_
+ * @author Will
  * @version 1.0.4
  */
 public class SessionException extends RuntimeException {
