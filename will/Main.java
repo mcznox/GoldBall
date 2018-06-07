@@ -2,8 +2,8 @@ package will;
 
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
-import znox.Oversee.Oversee;
-import znox.Type.Elements.Game;
+import will.Oversee.Oversee;
+import will.Type.Elements.Game;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
