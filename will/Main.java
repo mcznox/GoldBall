@@ -1,4 +1,4 @@
-package znox;
+package will;
 
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
